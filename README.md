@@ -1,11 +1,11 @@
-# enriquegiraldo# 🚀 Enrique Giraldo Puentes
+# enriquegiraldo# 🚀 Enrique Giraldo Puentes 👋
 ### `Full Stack Developer & Digital Solutions Architect`
 
 <div align="center">
   
 ```ascii
     ╔══════════════════════════════════════════════════════════════╗
-    ║  🌟 Transformando ideas en soluciones digitales robustas 🌟  ║
+    ║  🌟 Transformando ideas en soluciones digitales robustas 🌟  ║ 
     ║              📍 Bogotá, Colombia 🇨🇴                        ║
     ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -78,10 +78,11 @@ const enrique = {
 ### **Instituciones de Élite**
 ```
 🏛️ SENA - Tecnólogo en Análisis y Desarrollo de Software
-🎯 Oracle Next Education - Alura LATAM
+🎯 Oracle Next Education - Alura LATAM por 3 años 
 🚀 Udemy - Formación Práctica Intensiva
 📚 Platzi - Habilidades Técnicas Avanzadas
-🎓 Universidad Sergio Arboleda
+🏛️ Universidad de Caldo
+🎓 Universidad Sergio Arboleda 
 🏛️ Universidad Nacional de Colombia
 📖 Coursera - Educación Continua
 ```
